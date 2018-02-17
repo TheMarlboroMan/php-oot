@@ -1,0 +1,10 @@
+;
+;This file should be called "oot.ini" and the values should be filled.
+;
+
+url = ''
+server_path = ''
+database_host = ''
+database_user = ''
+database_pass = ''
+database_name = ''
